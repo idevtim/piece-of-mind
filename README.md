@@ -12,7 +12,7 @@
 </p>
 -->
 
-A calm iOS jigsaw app built around your own photos. Pick a picture, choose how many pieces, and put it back together — piece by piece — with a soft snap, a little sparkle, and no timer pressure. Everything runs on device: no accounts, no network, no ads, no subscription.
+A calm iOS jigsaw app built around your own photos. Pick a picture, choose how many pieces, and put it back together — piece by piece — with a soft snap and a little sparkle. Play relaxed with no clock at all, or turn on a timed mode when you want a challenge. Everything runs on device: no accounts, no network, no ads, no subscription.
 
 > **Status:** In development, not yet on the App Store. Screenshots and a download link will be added here at launch.
 
@@ -43,27 +43,30 @@ A calm iOS jigsaw app built around your own photos. Pick a picture, choose how m
 
 ## How to Play
 
-- **Pick a photo** from your library (or take one), then choose a piece count.
+- **Pick a photo** from your library (or take one), **crop** it to the shape you like, then choose a piece count and a mode.
 - Piece of Mind cuts your photo into interlocking jigsaw pieces and lays out a board with a faint **reference ghost** and a **Peek** control for when you want a glance at the finished picture.
 - Pieces wait in a scrolling **tray** at the bottom, with a **view-all gallery** when you want to see them all at once.
-- **Tap** a piece to send it to the board, then **drag** it to its spot. When it lands, it **snaps** into place with a sparkle and a gentle haptic.
-- There's no failure state and no clock racing you. The bar tracks your progress and elapsed time; finish the picture and a quiet celebration plays.
+- **Tap** a piece to send it to the board, then **drag** it to its spot. When it lands, it **snaps** into place with a sparkle and a gentle haptic. Neighboring pieces **join into clusters** that move together. **Pinch to zoom** in on a tricky corner.
+- Play **Easy** with no clock and the on-board hints available, or pick a **timed** mode for a challenge. The bar tracks your progress and time; finish the picture and a quiet celebration plays.
 
 ## Piece Counts
 
-Difficulty is simply how many pieces you want: **60**, **120**, **240**, or **400**. The grid **adapts to each photo's aspect ratio**, so a wide landscape and a tall portrait each get a layout that lands near your chosen count while keeping pieces pleasantly square.
+Difficulty is simply how many pieces you want: **60**, **120**, **240**, **400**, or **600**. The grid **adapts to each photo's aspect ratio**, so a wide landscape and a tall portrait each get a layout that lands near your chosen count while keeping pieces pleasantly square.
 
 Every puzzle is generated deterministically from the source photo, so a puzzle you resume looks exactly as it did when you started it.
 
 ## Features
 
-- **Your photos, your puzzles** — turn any picture from your library (or a fresh camera shot) into a jigsaw
-- **Four piece counts** — 60 / 120 / 240 / 400, with the grid fit to each photo's shape
-- A **reference ghost** behind the board plus a **Peek** control, so a hint is always one tap away
+- **Your photos, your puzzles** — turn any picture from your library (or a fresh camera shot) into a jigsaw, and crop it first if you like
+- **Five piece counts** — 60 / 120 / 240 / 400 / 600, with the grid fit to each photo's shape
+- **Easy, Medium, and Hard modes** — play untimed and relaxed, or against a countdown that scales to the puzzle's size
+- A **reference ghost** behind the board plus a **Peek** control, so a hint is always one tap away in Easy mode
+- **Clustered pieces** — snap neighbors together and move them as one, plus **pinch to zoom** for the fiddly bits
 - A scrolling **piece tray** and a **view-all gallery** for finding the piece you want
 - **Tap to place, drag to snap** — satisfying snap feedback with sparkles and haptics
 - **Progress and elapsed time** in the bar, and a **best time** on each puzzle's Home card
-- **Resume anytime** — piece positions, statuses, and elapsed time persist, so you can close mid-puzzle and pick up later
+- **Watch it come together** — record a solve and replay it, or export it as a shareable video
+- **Resume anytime** — piece positions, clusters, and elapsed time persist, so you can close mid-puzzle and pick up later
 - **Share the finished image** from the completion screen or the Home long-press menu
 - First-run **onboarding** and soft, **opt-in** snap and completion sounds
 - Independent **sound and haptics** toggles
