@@ -12,32 +12,29 @@
 
 A calm iOS jigsaw app built around your own photos. Pick a picture, choose how many pieces, and put it back together — piece by piece — with a soft snap and a little sparkle. Play relaxed with no clock at all, or turn on a timed mode when you want a challenge. Everything runs on device: no accounts, no network, no ads, no subscription.
 
-> **Status:** In development, not yet on the App Store. Screenshots and a download link will be added here at launch.
-
-<!-- Screenshots go here once real captures exist:
+> **Status:** In development, not yet on the App Store. A download link will be added here at launch.
 
 ## Screenshots
 
 ### iPhone
 
 <p align="center">
-  <img src="marketing/iphone-1.png" width="19%" />
-  <img src="marketing/iphone-2.png" width="19%" />
-  <img src="marketing/iphone-3.png" width="19%" />
-  <img src="marketing/iphone-4.png" width="19%" />
-  <img src="marketing/iphone-5.png" width="19%" />
+  <img src="marketing/iphone-1.jpg" width="19%" alt="Home library of puzzles" />
+  <img src="marketing/iphone-2.jpg" width="19%" alt="Create a puzzle from a photo" />
+  <img src="marketing/iphone-3.jpg" width="19%" alt="Solving the puzzle" />
+  <img src="marketing/iphone-4.jpg" width="19%" alt="A piece snapping into place" />
+  <img src="marketing/iphone-5.jpg" width="19%" alt="A finished puzzle" />
 </p>
 
 ### iPad
 
 <p align="center">
-  <img src="marketing/ipad-1.png" width="19%" />
-  <img src="marketing/ipad-2.png" width="19%" />
-  <img src="marketing/ipad-3.png" width="19%" />
-  <img src="marketing/ipad-4.png" width="19%" />
-  <img src="marketing/ipad-5.png" width="19%" />
+  <img src="marketing/ipad-1.jpg" width="19%" alt="Home library of puzzles" />
+  <img src="marketing/ipad-2.jpg" width="19%" alt="Create a puzzle from a photo" />
+  <img src="marketing/ipad-3.jpg" width="19%" alt="Solving the puzzle" />
+  <img src="marketing/ipad-4.jpg" width="19%" alt="A piece snapping into place" />
+  <img src="marketing/ipad-5.jpg" width="19%" alt="A finished puzzle" />
 </p>
--->
 
 ## How to Play
 
