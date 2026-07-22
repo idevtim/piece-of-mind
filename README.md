@@ -1,8 +1,6 @@
-<!-- Marketing banner goes here once the header art is ready:
 <p align="center">
-  <img src="marketing/header.svg" alt="Piece of Mind: Picture Puzzles — turn your own photos into calm little jigsaws" width="100%" />
+  <img src="marketing/app-icon.png" alt="Piece of Mind app icon" width="160" />
 </p>
--->
 
 # Piece of Mind: Picture Puzzles
 
