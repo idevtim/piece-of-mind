@@ -8,11 +8,11 @@ If you have a question, found a bug, or want to request a feature for Piece of M
 
 ### How do I make a puzzle?
 
-Tap to create a new puzzle, pick a photo from your library (or take one with the camera), and choose a piece count. Piece of Mind cuts your picture into interlocking jigsaw pieces and drops you onto the board.
+Tap to create a new puzzle, pick a photo from your library (or try the sample puzzle), shape it, and choose a piece count and mode. Piece of Mind cuts your picture into interlocking jigsaw pieces and drops you onto the board.
 
 ### How do I play?
 
-Pieces wait in a scrolling tray at the bottom, with a "view all" gallery when you want to see them together. **Tap** a piece to send it to the board, then **drag** it to its spot — when it lands, it snaps into place with a sparkle and a gentle haptic. Behind the board is a faint reference ghost. In **Easy** there is no clock at all and the on-board aids are yours whenever you want them: **Peek** for a glance at the finished picture, **Highlight** to pick the loose pieces out of the board, and **Hint** to be shown where one piece belongs. As you go, the app marks the moments worth marking, like the frame closing or the halfway point. Finish the picture and a quiet celebration plays.
+Pieces wait in a scrolling pile at the bottom. Narrow it to edge or inside pieces, or pull it up to see every loose piece grouped by shape or by color. **Tap** a piece to send it to the board, then **drag** it to its spot — when it lands, it snaps into place with a sparkle and a gentle haptic. Behind the board is a faint reference ghost. In **Easy** there is no clock at all and the on-board aids are yours whenever you want them: **Peek** for a glance at the finished picture, **Highlight** to pick the loose pieces out of the board, and **Hint** to be shown where one piece belongs. As you go, the app marks the moments worth marking, like the frame closing or the halfway point. Finish the picture and a quiet celebration plays.
 
 ### What are the piece counts?
 
@@ -32,7 +32,7 @@ Yes. Settings has a surface for the board (paper by default) and one for the tra
 
 ### Does Piece of Mind use my photos?
 
-Only the picture you pick. When you choose a photo (or take one), the app copies that single image into its own on-device storage to build the puzzle. Your photos never leave your device, aren't uploaded anywhere, and aren't shared with anyone. See the [Privacy Policy](PRIVACY.md) for details.
+Only the picture you pick. When you choose a photo, the app copies that single image into its own on-device storage to build the puzzle. Your photos never leave your device, aren't uploaded anywhere, and aren't shared with anyone. See the [Privacy Policy](PRIVACY.md) for details.
 
 ### Does Piece of Mind collect my data?
 

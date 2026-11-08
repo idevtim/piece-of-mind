@@ -16,7 +16,7 @@ Piece of Mind does **not** collect, transmit, or store any personal data. Specif
 
 ## Your Photos
 
-Piece of Mind turns pictures you choose into jigsaw puzzles. When you pick a photo from your library — or take one with the camera — the app copies **that single image** into its own on-device storage so it can slice it into pieces and let you resume later. Your photos:
+Piece of Mind turns pictures you choose into jigsaw puzzles. When you pick a photo from your library, the app copies **that single image** into its own on-device storage so it can slice it into pieces and let you resume later. Your photos:
 
 - **Never leave your device** — they are not uploaded, backed up to us, or shared with any third party.
 - Are only accessed when **you** choose a picture; the app does not browse or scan your library on its own.
