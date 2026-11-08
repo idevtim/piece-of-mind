@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="marketing/app-icon.png" alt="Piece of Mind app icon" width="160" />
+  <img src="marketing/app-icon-rounded.png" alt="Piece of Mind app icon" width="160" />
 </p>
 
 # Piece of Mind: Picture Puzzles
