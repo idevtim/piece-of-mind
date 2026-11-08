@@ -8,15 +8,11 @@
   <img src="marketing/header.jpg" alt="Your photos, one calm piece at a time. Jigsaw puzzles from your own pictures." width="100%" />
 </p>
 
-<!-- App Store link goes here once the app ships:
 <p align="center">
-  <a href="APP_STORE_URL"><strong>Download on the App Store →</strong></a>
+  <a href="https://apps.apple.com/us/app/piece-of-mind-picture-puzzles/id6792975520"><img src="marketing/app-store-badge.svg" alt="Download on the App Store" height="54" /></a>
 </p>
--->
 
 A calm iOS jigsaw app built around your own photos. Pick a picture, choose how many pieces, and put it back together — piece by piece — with a soft snap and a little sparkle. Play relaxed with no clock at all, or turn on a timed mode when you want a challenge. Everything runs on device: no accounts, no network, no ads, no subscription.
-
-> **Status:** In development, not yet on the App Store. A download link will be added here at launch.
 
 ## Screenshots
 
